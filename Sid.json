@@ -4,6 +4,9 @@
       "BPK": [{
          "direction": "ODD"
       }],
+      "BUZAD": [{
+         "direction": "EVEN"
+      }],
       "CHK": [{
          "direction": "EVEN"
       }],
@@ -25,13 +28,22 @@
       "MODMI": [{
          "direction": "ODD"
       }],
+      "MID": [{
+         "direction": "ODD"
+      }],
       "MAY": [{
          "direction": "ODD"
+      }],
+      "SAM": [{
+         "direction": "ANY"
       }],
       "UMLAT": [{
          "direction": "EVEN"
       }],
       "ULTIB": [{
+         "direction": "EVEN"
+      }],
+      "WOBUN": [{
          "direction": "EVEN"
       }]
    }
